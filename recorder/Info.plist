@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleIdentifier</key><string>local.meeting-notes.recorder</string>
+  <key>CFBundleName</key><string>Meeting Recorder</string>
+  <key>CFBundleDisplayName</key><string>Meeting Recorder</string>
+  <key>CFBundleExecutable</key><string>meeting-recorder</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>CFBundleIconFile</key><string>app</string>
+  <key>LSMinimumSystemVersion</key><string>15.0</string>
+  <key>LSUIElement</key><true/>
+  <key>NSMicrophoneUsageDescription</key><string>Meeting Recorder records your microphone so your side of the meeting is in the recording.</string>
+</dict></plist>
